@@ -1,4 +1,4 @@
-<h3>Jenkins</h3>
+<h3>Програмы для автоматической сборки проектов (CI)</h3>
 Описание проекта<br>
 Сначала поработаем с Jenkins, возможно потом попробуем <br>
 и другие программы Continuous Integration. 
@@ -22,4 +22,9 @@
 Настройка программы Jenkins<br><br>
 
 <a href="/01_info/040_work/WORK.md">Выполняем работу</a> <br>
-Настраиваем выполнение работы в Jenkins<br><br>
+Настраиваем выполнение работы в Jenkins <br> <br>
+
+<img src="/01_info/travis.png" alt=""/>
+
+<a href="/01_info/travis/TRAVIS.md">Travis CI</a> <br>
+Описание аналогичной программы Travis CI<br><br>
